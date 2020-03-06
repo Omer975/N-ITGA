@@ -12,22 +12,29 @@ export default function App() {
         />
         <h1>Nordic</h1>
         <h2>IT Garage Academy </h2>
-        <p>Programming - Web Development - Designing - Robotics - Bootcamps - Project Development
-          
+        <p>
+          Programming - Web Development - Designing - Robotics - Bootcamps -
+          Project Development
         </p>
         <ul>
           <li>
-            <a href="https://www.facebook.com/Nordic-It-Garage-Akademi-104895461128832/" target="_blank">
+            <a
+              href="https://www.facebook.com/Nordic-It-Garage-Akademi-104895461128832/"
+              target="_blank"
+            >
               <i className="fab fa-facebook-square" />
             </a>
           </li>
           <li>
-            <a href="https://twitter.com/GarageNordic" target="_blank">
+            <a href="https://twitter.com/NordicITGA" target="_blank">
               <i className="fab fa-twitter-square" />
             </a>
           </li>
           <li>
-            <a href="https://www.instagram.com/it_garage_academy/" target="_blank">
+            <a
+              href="https://www.instagram.com/it_garage_academy/"
+              target="_blank"
+            >
               <i className="fab fa-instagram" />
             </a>
           </li>
