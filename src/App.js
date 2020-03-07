@@ -45,7 +45,7 @@ export default function App() {
           </li>
           <li>
             <a href="" target="">
-              <i className="fab fa-github-square" />
+              <i className="far fa-envelope" />
             </a>
           </li>
         </ul>
